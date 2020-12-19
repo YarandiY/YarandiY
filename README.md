@@ -1,7 +1,8 @@
 ### Hi there 👋
-
 <!--
 **YarandiY/YarandiY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I’m currently studying Computer Engineering at Shahid Beheshti University and    
 
 Here are some ideas to get you started:
 
