@@ -26,9 +26,9 @@ I'm a Graduate student in Information technology.
 
 ### GitHub Stats
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YarandiY&hide=VHDL,C,Assembly,Perl&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YarandiY&hide=VHDL,C,Assembly,Perl&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="left" alt="Yalda's GitHub Stats" src="https://github-readme-stats.YarandiY.vercel.app//api?username=YarandiY&show_icons=true&hide_border=true&theme=radical" />
+<!-- <img align="left" alt="Yalda's GitHub Stats" src="https://github-readme-stats.YarandiY.vercel.app//api?username=YarandiY&show_icons=true&hide_border=true&theme=radical" /> -->
 
 <p></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yarandiy&label=Profile%20views&color=0e75b6&style=flat" alt="yarandiy" /> </p>
