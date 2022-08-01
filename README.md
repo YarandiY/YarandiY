@@ -6,7 +6,7 @@ I'm a Graduate student in Information technology.
 
 
 <h1 align="center">Hi <img src='https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966' width='25'>, I'm Yalda</h1>
-<h3 align="center">A Graduate student in Information Technology who is an NLP researcher at UT and was a software developer at TIT.</h3>
+<h3 align="center">A Graduate student in Information Technology who is an NLP research assistant at UT and was a software developer at TIT.</h3>
 
 - 📫 How to reach me **yalda.yarandi@gmail.com**
 
